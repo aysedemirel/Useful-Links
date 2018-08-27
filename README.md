@@ -13,7 +13,7 @@ Some useful web site links for programming
 
 
 # ANDROID:
-1.[Activity] (https://developer.android.com/reference/android/app/Activity#onCreateOptionsMenu(android.view.Menu))
+1.[Activity] (https://developer.android.com/reference/android/app/Activity)
 
 2.[AdapterView](https://developer.android.com/reference/android/widget/AdapterView?utm_source=udacity&utm_medium=course&utm_campaign=android_basics#setEmptyView(android.view.View))
 
