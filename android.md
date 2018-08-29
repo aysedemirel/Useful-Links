@@ -98,3 +98,77 @@
 49.[Learn Java Tutorial for Beginners, Part 30: Using Generics from YouTube(good Java tutorial)](https://www.youtube.com/watch?v=rOBtgaXaba0)
 
 50.[Learn Java Tutorial for Beginners, Part 43: Inner Classes](https://www.youtube.com/watch?v=DZWlO1jCVas)
+
+51.[Lesson: Working with URLs](https://docs.oracle.com/javase/tutorial/networking/urls/)
+
+52.[LoaderManager](https://developer.android.com/reference/android/app/LoaderManager?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
+
+53.[LoaderManager.LoaderCallbacks](https://developer.android.com/reference/android/app/LoaderManager.LoaderCallbacks?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
+
+54.[Loaders](https://developer.android.com/guide/components/loaders?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
+
+55.[Log](https://developer.android.com/reference/android/util/Log?utm_source=udacity&utm_medium=course&utm_campaign=android_basics#e(java.lang.String,%20java.lang.String))
+
+56.[Logging from code](https://developer.android.com/studio/command-line/logcat?utm_source=udacity&utm_medium=course&utm_campaign=android_basics#logClass)
+
+57.[Managing audio focus](https://developer.android.com/guide/topics/media-apps/audio-focus)
+
+58.[Manifest.permission](https://developer.android.com/reference/android/Manifest.permission?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
+
+59.[Media playback the right way (Big Android BBQ 2015)----YouTube](https://www.youtube.com/watch?v=XQwe30cZffg)
+
+60.[MediaPlayer](https://developer.android.com/reference/android/media/MediaPlayer)
+
+61.[MediaPlayer overview](https://developer.android.com/guide/topics/media/mediaplayer)
+
+62.[MenuItem](https://developer.android.com/reference/android/view/MenuItem#getItemId()
+
+63.[Creating an Options Menu](https://developer.android.com/guide/topics/ui/menus#options-menu)
+
+64.[Protection levels](https://developer.android.com/guide/topics/permissions/overview?utm_source=udacity&utm_medium=course&utm_campaign=android_basics#normal-dangerous)
+
+65.[Diagram Screen Relationships](https://developer.android.com/training/design-navigation/screen-planning?utm_source=udacity&utm_medium=course&utm_campaign=android_basics#diagram-relationships)
+
+66.[PreferenceFragment](https://developer.android.com/reference/android/preference/PreferenceFragment)
+
+67.[Processes and threads overview](https://developer.android.com/guide/components/processes-and-threads?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
+
+68.[<provider>](https://developer.android.com/guide/topics/manifest/provider-element?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
+
+69.[Providing Up navigation](https://developer.android.com/training/implementing-navigation/ancestral)
+
+70.[Save data in a local database using Room](https://developer.android.com/training/data-storage/room/#DefineContract)
+
+71.[Services overview](https://developer.android.com/guide/components/services)
+
+72.[SharedPreferences](https://developer.android.com/reference/android/content/SharedPreferences)
+
+73.[Specifying the Exceptions Thrown by a Method](https://docs.oracle.com/javase/tutorial/essential/exceptions/declaring.html)
+
+74.[SQLiteDatabase](https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase#execSQL(java.lang.String)
+
+75.[Supported media formats](https://developer.android.com/guide/topics/media/media-formats)
+
+76.[The switch Statement](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)
+
+77.[Threading and Loaders. (Android Performance Patterns Season 5, Ep. 8)---YouTube](https://www.youtube.com/watch?v=s4eAtMHU5gI&index=8&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
+
+78.[Threading Performance 101. (Android Performance Patterns Season 5, Ep. 1)---Youtube](https://www.youtube.com/watch?v=qk5F6Bxqhr4&index=1&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
+
+79.[parse](https://developer.android.com/reference/android/net/Uri?utm_source=udacity&utm_medium=course&utm_campaign=android_basics#parse(java.lang.String))
+
+80.[UriMatcher](https://developer.android.com/reference/android/content/UriMatcher)
+
+81.[URL](https://developer.android.com/reference/java/net/URL?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
+
+82.[connect](https://developer.android.com/reference/java/net/URLConnection?utm_source=udacity&utm_medium=course&utm_campaign=android_basics#connect())
+
+83.[User Interface & Navigation](https://developer.android.com/guide/topics/ui/)
+
+85.[Web API Reference--Spotify](https://developer.spotify.com/documentation/web-api/reference/)
+
+86.[What is AsyncTask in Android?](http://programmerguru.com/android-tutorial/what-is-asynctask-in-android/)
+
+87.[What’s the difference between computer memory (RAM) and hard drive storage?](https://soundsupport.biz/2012/05/06/whats-the-difference-between-computer-memory-ram-and-hard-drive-storage/)
+
+88.[Why is a database always represented with a cylinder?](https://stackoverflow.com/questions/2822650/why-is-a-database-always-represented-with-a-cylinder)
