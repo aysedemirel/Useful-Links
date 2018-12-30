@@ -8,6 +8,7 @@ Some useful web site links for programming
 
 3.[10 points about Java Heap Space or Java Heap Memory](https://javarevisited.blogspot.com/2011/05/java-heap-space-memory-size-jvm.html)
 
+4.[Project Ideas](https://www.linuxtrainingacademy.com/projects/) 
 
 
 
